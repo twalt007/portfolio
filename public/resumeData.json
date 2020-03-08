@@ -1,0 +1,127 @@
+{
+  "main": {
+    "name":"Matthew Baldwin",
+    "description": "I’m Matthew Baldwin, a full-stack web developer. I am passionate about programming and using new development tools and technology. For the past seven years I have worked in a corporate healthcare data industry involved in digital marketing campaigns",
+    "email": "matt.d.baldwin@gmail.com",
+    "address":{
+      "street":"Orange County",
+      "city":"City of Orange",
+      "state":"CA"
+    },
+    "image": "profilepic.jpg",
+    "aboutme":{ 
+      "pp1": "My previous experiences included analyzing customer experiences through website landing pages, content creation and email automation tools such as Pardot and Eloqua. I have over a decade of experience with Adobe Suite creating content in Photoshop, Illustrator and InDesign. I have managed websites as part of my marketing duties and developed them using HTML, CSS, PHP, Javascript and managing Content Management Suite (CMS) platforms. This allowed me to create a passion for coding and developing websites and their technologies. I was fortunate to take on more responsibility coding and developing these corporate websites and learned more about JavaScript and project management platforms.", 
+      "pp2": "I needed a way to learn more and enrolled at LearningFuze, and take night classes while still holding my job. While at Learning Fuze I was given challenging programming problems to solve. Engaging me and exposing me to more technologies such as JavaScript, jQuery, React and NodeJs. My knowledge grew as a front end developer as I worked on several React applications. NodeJs and Express exposed me to working as a back-end developer as I edited databases and made even more progress.", 
+      "pp3": "My experience managing campaigns for customer experiences combined with my skills as a Web Developer would make me a fantastic asset to your team. I would love the opportunity to bring my passion and dedication to web development to your company."
+    },
+    "website": "http://www.matthewdbaldwin.com",
+    "resumedownload":"http://www.matthewdbaldwin.com/resume",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/mattdbaldwin/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/matthewdbaldwin",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"California State Polytechnic University Pomona",
+        "degree":"Business Administration",
+        "graduated":"June 2008",
+        "description":"Brand Management and Marketing"
+      },
+      {
+        "school":"Learning Fuze",
+        "degree":"Full-stack development program",
+        "graduated":"March 2020",
+        "description":"Completed Full-stack development courses, a 12-week intensive that teaches front-end and back-end subjects like JavaScript/jQuery, React, Node.js, PHP, MySQL, HTML, CSS, Amazon Web Services (AWS), Git/GitHub, and others."
+      }
+    ],
+    "work":[
+      {
+        "company":"IQVIA",
+        "title":"Marketing Manager",
+        "years":"April 2015 - Present",
+        "description":"Develop OneKeyData.com utilizing ExpressionEngine to publish content and development. Lead site development with Nodejs, and tracked through Beanstalk and GitHub using HTML, CSS, Javascript, JSON, ECMA 5 & 6 and PHP. Collaborate with 3rd party development team Lucid Fusion. Utilize Microsoft Sharepoint CMS and SQL for U.S. marketing on IQVIA.com to create product pages and campaign landing pages. Lead identification of KPI's through Google suite of products."
+      },
+      {
+        "company":"Cegedim",
+        "title":"Marketing Specialist",
+        "years":"April 2013 - April 2015",
+        "description":"Designed and deployed email campaigns through Marketo. Created product pages and campaign landing pages for US marketing on cegedimrm.com. Updated and maintained websites with Microsoft Sharepoint using Javascript, PHP and HTML.Designed layouts for print and digital media including brochures, fact sheets, count sheets, banners, newsletters, advertiesments, and other sales collateral with Photoshop and Illustrator."
+      }
+    ],
+    "skills":[
+      {
+        "name":"HTML5",
+        "level":"90%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"Photoshop",
+        "level":"80%"
+      },
+      {
+        "name":"Git",
+        "level":"70%"
+      },
+      {
+        "name":"Wordpress",
+        "level":"70%"
+      },
+      {
+        "name":"Illustrator",
+        "level":"65%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"OneKeyData.com",
+        "category":"A professional site I currently develop.",
+        "image":"onekeydata.png",
+        "url":"https://onekeydata.com"
+      },
+      {
+        "title":"winwinbrewery.com",
+        "category":"A project in WordPress I started to track my hobby of brewing beer.",
+        "image":"winwin.png",
+        "url":"https://winwinbrewery.com/"
+      },
+      {
+        "title":"Sweet Corner",
+        "category":"A React.js website I built at LearningFuze",
+        "image":"sweet-corner.png",
+        "url":"https://matthewdbaldwin.com/sweet-corner"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Matt has a lot of technical skills",
+        "user":"Mattias Huber"
+      },
+      {
+        "text":"Phenomenal to work with.",
+        "user":"Kenneth Hope"
+      }
+    ]
+  }
+}
