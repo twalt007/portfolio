@@ -1,18 +1,18 @@
 {
   "main": {
-    "name":"Matthew Baldwin",
-    "description": "I’m Matthew Baldwin, a full-stack web developer. I am passionate about programming and using new development tools and technology. For the past seven years I have worked in a corporate healthcare data industry involved in digital marketing campaigns",
-    "email": "matt.d.baldwin@gmail.com",
+    "name":"Tatumn Walter",
+    "description":"I'm Tautmn Walter, a life-long learner, professional problem-solver, and full-stack web developer. I am passionate about understanding the how and why of what makes something work, and love optimizing systems to be better than before.",
+    "email": "tautmnwalter@gmail.com",
     "address":{
       "street":"Orange County",
-      "city":"City of Orange",
+      "city":"City of Irvine",
       "state":"CA"
     },
     "image": "profilepic.jpg",
     "aboutme":{ 
-      "pp1": "My previous experiences included analyzing customer experiences through website landing pages, content creation and email automation tools such as Pardot and Eloqua. I have over a decade of experience with Adobe Suite creating content in Photoshop, Illustrator and InDesign. I have managed websites as part of my marketing duties and developed them using HTML, CSS, PHP, Javascript and managing Content Management Suite (CMS) platforms. This allowed me to create a passion for coding and developing websites and their technologies. I was fortunate to take on more responsibility coding and developing these corporate websites and learned more about JavaScript and project management platforms.", 
-      "pp2": "I needed a way to learn more and enrolled at LearningFuze, and take night classes while still holding my job. While at Learning Fuze I was given challenging programming problems to solve. Engaging me and exposing me to more technologies such as JavaScript, jQuery, React and NodeJs. My knowledge grew as a front end developer as I worked on several React applications. NodeJs and Express exposed me to working as a back-end developer as I edited databases and made even more progress.", 
-      "pp3": "My experience managing campaigns for customer experiences combined with my skills as a Web Developer would make me a fantastic asset to your team. I would love the opportunity to bring my passion and dedication to web development to your company."
+      "pp1": "I've always had a developer's mind – analyzing situations, modularizing processes, figuring out what makes people and systems tick, and then using these insights to build something better. ", 
+      "pp2": "Equally athlete and nerd, fluent in Spanish and Chinese, experienced with both the coding and business sides of App development - I use my multifaceted background to approach problems from unique angles and innovate projects.", 
+      "pp3": "Currently I'm loving diving into the code, and hope one day to work on a project in the humantiarian or economic development feild where I can use my full skillset to make a positie impact on the lives of others."
     },
     "website": "http://www.matthewdbaldwin.com",
     "resumedownload":"http://www.matthewdbaldwin.com/resume",
@@ -26,6 +26,11 @@
         "name":"github",
         "url":"http://github.com/matthewdbaldwin",
         "className":"fa fa-github"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/tbaker_x",
+        "className":"fa fa-instagram"
       }
     ]
   },
@@ -125,3 +130,5 @@
     ]
   }
 }
+
+
