@@ -14,40 +14,45 @@
       "pp2": "Equally athlete and nerd, fluent in Spanish and Chinese, experienced with both the coding and business sides of App development - I use my multifaceted background to approach problems from unique angles and innovate projects.", 
       "pp3": "Currently I'm loving diving into the code, and hope one day to work on a project in the humantiarian or economic development feild where I can use my full skillset to make a positie impact on the lives of others."
     },
-    "website": "http://www.matthewdbaldwin.com",
-    "resumedownload":"http://www.matthewdbaldwin.com/resume",
+    "website": "http://www.twalt007.com",
+    "resumedownload":"https://drive.google.com/file/d/1-STtcoZBISb0B3wa1stUIfRghmOFvgoc/view?usp=sharing",
     "social":[
       {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/mattdbaldwin/",
+        "url":"https://www.linkedin.com/in/tatumnwalter/",
         "className":"fa fa-linkedin"
       },
       {
         "name":"github",
-        "url":"http://github.com/matthewdbaldwin",
+        "url":"https://github.com/twalt007",
         "className":"fa fa-github"
       },
       {
         "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
+        "url":"https://www.instagram.com/tatumnwalter/",
         "className":"fa fa-instagram"
       }
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"Education and Certificates",
     "education":[
       {
-        "school":"California State Polytechnic University Pomona",
-        "degree":"Business Administration",
-        "graduated":"June 2008",
-        "description":"Brand Management and Marketing"
+        "school":"University of Southern California",
+        "degree":"International Business; Chinese",
+        "description":"Emphasis in Economic Development of the Pacific Rim. Studied abroad in Santiago, Chile for 5 months for Spanish fluency. Graduated Summa Cum Laude."
       },
       {
-        "school":"Learning Fuze",
-        "degree":"Full-stack development program",
+        "school":"Learning Fuze, Accelarated Coding Program",
+        "degree":"Full-Stack Program",
         "graduated":"March 2020",
-        "description":"Completed Full-stack development courses, a 12-week intensive that teaches front-end and back-end subjects like JavaScript/jQuery, React, Node.js, PHP, MySQL, HTML, CSS, Amazon Web Services (AWS), Git/GitHub, and others."
+        "description":"Year-long program Completed Full-stack development courses, a 12-week intensive that teaches front-end and back-end subjects like JavaScript/jQuery, React, Node.js, PHP, MySQL, HTML, CSS, Amazon Web Services (AWS), Git/GitHub, and others."
+      },
+      {
+        "school":"Project Management Institue",
+        "degree":"CAPM Certified; applying for PMP",
+        "graduated":"",
+        "description":""
       }
     ],
     "work":[
