@@ -20,7 +20,7 @@ class Footer extends Component {
            </ul>
 
            <ul className="copyright">
-            <li>&copy; Copyright {year} Matthew Baldwin</li>
+            <li>&copy; Copyright {year} Tatumn Walter</li>
              
            </ul>
 

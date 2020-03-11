@@ -2,7 +2,8 @@
   "main": {
     "name":"Tatumn Walter",
     "description":"I'm Tautmn Walter, a life-long learner, professional problem-solver, and full-stack web developer. I am passionate about understanding the how and why of what makes something work, and love optimizing systems to be better than before.",
-    "email": "tautmnwalter@gmail.com",
+    "email": "tatumnwalter@gmail.com",
+    "phone": "714) 390-6091",
     "address":{
       "street":"Orange County",
       "city":"City of Irvine",
@@ -10,9 +11,10 @@
     },
     "image": "profilepic.jpg",
     "aboutme":{ 
-      "pp1": "I've always had a developer's mind – analyzing situations, modularizing processes, figuring out what makes people and systems tick, and then using these insights to build something better. ", 
+      "pp1": "I've always had a developer's mind – analyzing situations, modularizing processes, figuring out what makes people and systems tick, and then using these insights to build something better.", 
       "pp2": "Equally athlete and nerd, fluent in Spanish and Chinese, experienced with both the coding and business sides of App development - I use my multifaceted background to approach problems from unique angles and innovate projects.", 
-      "pp3": "Currently I'm loving diving into the code, and hope one day to work on a project in the humantiarian or economic development feild where I can use my full skillset to make a positie impact on the lives of others."
+      "pp3": "Currently I'm loving diving into the code, and hope one day to work on a project in the humantiarian or economic development feild where I can use my full skillset to make a positie impact on the lives of others.",
+      "pp4": "Let me know if you have somethin you think I'd be great on - I always like hearing about new and exciting projects!"
     },
     "website": "http://www.twalt007.com",
     "resumedownload":"https://drive.google.com/file/d/1-STtcoZBISb0B3wa1stUIfRghmOFvgoc/view?usp=sharing",
@@ -46,7 +48,7 @@
         "school":"Learning Fuze, Accelarated Coding Program",
         "degree":"Full-Stack Program",
         "graduated":"March 2020",
-        "description":"Year-long program Completed Full-stack development courses, a 12-week intensive that teaches front-end and back-end subjects like JavaScript/jQuery, React, Node.js, PHP, MySQL, HTML, CSS, Amazon Web Services (AWS), Git/GitHub, and others."
+        "description":"Year-long program for full-stack web development totaling minimum 800 work hours and including planning, coding and deployment of personal full-stack App. Covered materials inlude JavaScript/jQuery, OOP fundamentals, React, Node.js, MySQL, HTML, CSS, Amazon Web Services (AWS), Git/GitHub, and others."
       },
       {
         "school":"Project Management Institue",
@@ -57,80 +59,90 @@
     ],
     "work":[
       {
-        "company":"IQVIA",
-        "title":"Marketing Manager",
-        "years":"April 2015 - Present",
-        "description":"Develop OneKeyData.com utilizing ExpressionEngine to publish content and development. Lead site development with Nodejs, and tracked through Beanstalk and GitHub using HTML, CSS, Javascript, JSON, ECMA 5 & 6 and PHP. Collaborate with 3rd party development team Lucid Fusion. Utilize Microsoft Sharepoint CMS and SQL for U.S. marketing on IQVIA.com to create product pages and campaign landing pages. Lead identification of KPI's through Google suite of products."
+        "company":"85C Bakery Cafe Headquarters",
+        "title":"App Project Coordinator",
+        "years":"March 2018 - Present",
+        "description":"Coordinate timeline and work packages for 5 different domestic\/international departments and international teams. Collaborate with dev team on QA and reconfiguring UI to better suit US market. Strategize App marketing, compose all on and off-App written content. Compute Customer Rewards Program, product forecasts, and impact to company finances. Draft App Terms and Conditions and Privacy Policy. Create training materials for both employees and patrons. Negotiate contracts and grow collaboration on 3rd party platforms."
       },
       {
-        "company":"Cegedim",
-        "title":"Marketing Specialist",
-        "years":"April 2013 - April 2015",
-        "description":"Designed and deployed email campaigns through Marketo. Created product pages and campaign landing pages for US marketing on cegedimrm.com. Updated and maintained websites with Microsoft Sharepoint using Javascript, PHP and HTML.Designed layouts for print and digital media including brochures, fact sheets, count sheets, banners, newsletters, advertiesments, and other sales collateral with Photoshop and Illustrator."
+        "company":"ARC Document Solutions",
+        "title":"Business Develoment Associate",
+        "years":"Spring 2015 - Sep 2016",
+        "description": "Learned ARC proprietary technologies and explained technical use and business fit to prospective clients. Built strategic foundation of users for ARC proprietary cloud-based collaboration software to break into market. Grew client usage by 300%, highest quantity across 100+ global locations. Slashed costs by $15,000\/year by proactively spearheading update of invoice-process coding. Promoted to hiring, training, and managing 2 employees as part of initiative. Designed and executed client relationship strategy, while outperforming industry standards."
       }
     ],
-    "skills":[
+    "technologies":[
       {
         "name":"HTML5",
         "level":"90%"
       },
       {
         "name":"CSS",
-        "level":"90%"
-      },
-      {
-        "name":"Photoshop",
         "level":"80%"
       },
       {
-        "name":"Git",
+        "name":"Javascript, JQuery, ES6",
+        "level":"70%"
+      },
+      {
+        "name":"ReactJs, Redux",
+        "level":"70%"
+      },
+      {
+        "name":"Node.js",
+        "level":"70%"
+      },
+      {
+        "name":"MySql",
+        "level":"70%"
+      },
+      {
+        "name":"Git, GitHub",
         "level":"70%"
       },
       {
         "name":"Wordpress",
-        "level":"70%"
+        "level":"40%"
       },
       {
-        "name":"Illustrator",
-        "level":"65%"
-      },
-      {
-        "name":"ReactJs",
-        "level":"50%"
+        "name":"Photoshop",
+        "level":"40%"
       }
     ]
   },
   "portfolio":{
     "projects": [
       {
-        "title":"OneKeyData.com",
-        "category":"A professional site I currently develop.",
+        "title":"Dappled",
+        "category":"A full-stack CRUD blog-publishing App built in React, Node.js, and MySql and currently under development.",
         "image":"onekeydata.png",
-        "url":"https://onekeydata.com"
-      },
-      {
-        "title":"winwinbrewery.com",
-        "category":"A project in WordPress I started to track my hobby of brewing beer.",
-        "image":"winwin.png",
-        "url":"https://winwinbrewery.com/"
+        "url":"http://dappled.twalt007.com"
       },
       {
         "title":"Sweet Corner",
-        "category":"A React.js website I built at LearningFuze",
+        "category":"E-commerce site built on React-Redux, Node.js and MySql where users browse and select products for checkout using tokens to access and track cart.",
         "image":"sweet-corner.png",
-        "url":"https://matthewdbaldwin.com/sweet-corner"
+        "url":"http://sweet-corner.twalt007.com/"
+      },
+      {
+        "title":"Sweet Corner - OOP",
+        "category":"E-Commerce App built using Jquery and OOP fundamentals, styled using Bootstrap",
+        "image":"sweet-corner.png",
+        "url":"http://sweet-corner.twalt007.com/"
       }
     ]
   },
   "testimonials":{
     "testimonials":[
       {
-        "text":"Matt has a lot of technical skills",
-        "user":"Mattias Huber"
+        "text":"When I need thoughtful analysis, proactive problem-solving, and guaranteed precision of action – I trust Tatumn to execute each and every time. ",
+        "user":"Evan Casey",
+        "position": "Former National Director of Business Development, ARC"
       },
       {
-        "text":"Phenomenal to work with.",
-        "user":"Kenneth Hope"
+        "text":" Tatumn has many strengths, among them her commitment to learning, a strong intellect, a drive towards perfection, and a strong desire to contribute to the world around her.",
+        "user":"Cheryl-Marie Hansberger, Ed.D" ,
+        "position":"Former Vice President of Corporate Development, Delcan"
       }
     ]
   }
