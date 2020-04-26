@@ -13,7 +13,7 @@
     "aboutme":{ 
       "pp1": "I've always had a developer's mind – analyzing situations, modularizing processes, figuring out what makes people and systems tick, and then using these insights to build something better.", 
       "pp2": "Equally athlete and nerd, fluent in Spanish and Chinese, experienced with both the coding and business sides of App development - I use my multifaceted background to approach problems from unique angles and innovate projects.", 
-      "pp3": "Currently I'm loving diving into the code, and hope one day to work on a project in the humantiarian or economic development feild where I can use my full skillset to make a positie impact on the lives of others.",
+      "pp3": "Currently I'm loving diving into the code, and hope one day to work on a project in the humantiarian or economic development feild where I can use my full skillset to make a positive impact on the lives of others.",
       "pp4": "Let me know if you have somethin you think I'd be great on - I always like hearing about new and exciting projects!"
     },
     "website": "http://www.twalt007.com",
@@ -48,7 +48,7 @@
         "school":"Learning Fuze, Accelarated Coding Program",
         "degree":"Full-Stack Program",
         "graduated":"March 2020",
-        "description":"Year-long program for full-stack web development totaling minimum 800 work hours and including planning, coding and deployment of personal full-stack App. Covered materials inlude JavaScript/jQuery, OOP fundamentals, React, Node.js, MySQL, HTML, CSS, Amazon Web Services (AWS), Git/GitHub, and others."
+        "description":"Year-long program for full-stack web development totaling minimum 800 work hours and including planning, coding and deployment of personal full-stack App. Curriculum covered hands-on experience using JavaScript/jQuery, OOP fundamentals, React, Node.js, MySQL, HTML, CSS, Amazon Web Services (AWS), Git/GitHub, and others."
       },
       {
         "school":"Project Management Institue",
@@ -115,19 +115,13 @@
       {
         "title":"Dappled",
         "category":"A full-stack CRUD blog-publishing App built in React, Node.js, and MySql and currently under development.",
-        "image":"onekeydata.png",
+        "image":"Dappled_square.jpg",
         "url":"http://dappled.twalt007.com"
       },
       {
         "title":"Sweet Corner",
         "category":"E-commerce site built on React-Redux, Node.js and MySql where users browse and select products for checkout using tokens to access and track cart.",
-        "image":"sweet-corner.png",
-        "url":"http://sweet-corner.twalt007.com/"
-      },
-      {
-        "title":"Sweet Corner - OOP",
-        "category":"E-Commerce App built using Jquery and OOP fundamentals, styled using Bootstrap",
-        "image":"sweet-corner.png",
+        "image":"sweet_corner.jpg",
         "url":"http://sweet-corner.twalt007.com/"
       }
     ]
