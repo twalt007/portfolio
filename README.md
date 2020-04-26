@@ -1,15 +1,18 @@
-# React JS Resume Web App Template      
-![ReactJS Resume Website Template](resume-screenshot.jpg?raw=true "ReactJS Resume Website Template")
-### <a href="https://react-resume-template.herokuapp.com/">LIVE DEMO</a> 
+# Tatumn Walter WebDev Portfolio
+![Portfolio Home](resume-screenshot.jpg?raw=true "ReactJS Resume Website")
+### <a href="https://twalt007.com/">VISIT SITE</a> 
 
 ## Description
-This is a ReactJS based personal resume website template. I have built this by following a Udemy course (credits below) and by beginning with the Ceevee template by Styleshout (credits also below), and breaking up their template into isolated React components. Data is fed directly from a JSON File. This means that in its final form, it can be customized and used by anybody simply by filling in their own personal info into the JSON file and the changes will be dynamically fed into the site. If you would like to use this template for your own personal resume website, read on to learn how to build your own copy.
+This is my personal portfolio site featuring an overview of who I am, my skills, experience, and major projects. Feel free to visit the site and learn more about my work. Don't hesitate to reach out - I'm always looking to explore new opportunities. 
 
-## Make it Your Own!
-### 1. Make sure you have what you need
-To build this website, you will need to have Node >=6 downloaded and installed on your machine. If you don't already have it, you can get it <a href="https://nodejs.org/en/download/">HERE</a>
+## Technologies
+This site is built using a **ReactJS template** shared by Tim Baker on github. I modified it to feature my own professional content and adjusted the contact component to suit my current needs. Tim Baker's template was developed by breaking a **Ceevee template by Styleshout** into the ReactJS components with data fed from a **JSON File**. Credits and a link to the template's repo on Tim Baker's github account are provided below. 
+
+## Clone and Code
+### 1. System Requirements
+This website requires Node >= 6 to run.  If needed, you can download and install this at <a href="https://nodejs.org/en/download/">HERE</a>
 ### 2. Build a Create-React-App
-Next, you will build the initial application using a handy tool called Create-React-App. This allows you to get up and running with a React app without the headache of setting up build-tool configurations. Go <a href="https://reactjs.org/docs/installation.html">HERE</a> to get started.
+Use Create-React-App to get the project running without  you will build the initial application using a handy tool called Create-React-App. This allows you to get up and running with a React app without the headache of setting up build-tool configurations. Go <a href="https://reactjs.org/docs/installation.html">HERE</a> to get started.
 When the app building is finished run `cd yourappname` and run `npm start` to test it out.
 Hit ctrl+c in the terminal when you want to stop the server that the above command starts.
 For this project we will also need to install JQuery and ReactGA, do this by running `npm install jquery --save` and `npm install react-ga --save` in your terminal while inside your project folder. YOU MUST RUN THESE COMMANDS.
@@ -26,14 +29,5 @@ When you're all done, run `npm start` again and you'll see your new personal res
 
 
 ## Credits
-##### Udemy Course
-<a href="https://www.udemy.com/projects-in-reactjs-the-complete-react-learning-course/learn/v4/overview">Projects in ReactJS: The Complete React Learning Course by Eduonix</a>
-
-#### HTML Design Template
-<a href="https://www.styleshout.com/free-templates/ceevee/">Ceevee Template by Styleshout</a>
-
-##### Header photo credit
-<a href="https://unsplash.com/@mischievous_penguins?utm_medium=referral&amp;utm_campaign=photographer-credit&amp;utm_content=creditBadge">Casey Horner</a>
-
-##### Testimonial photo credit
-<a href="https://unsplash.com/@samuelzeller?utm_medium=referral&amp;utm_campaign=photographer-credit&amp;utm_content=creditBadge">Samuel Zeller</a>
+##### Tim Baker Resume Template
+<a href="https://github.com/tbakerx/react-resume-template">React JS Resume Web App Template</a>
