@@ -48,7 +48,7 @@
         "school":"Learning Fuze, Accelarated Coding Program",
         "degree":"Full-Stack Program",
         "graduated":"March 2020",
-        "description":"Year-long program for full-stack web development totaling minimum 800 work hours and including planning, coding and deployment of personal full-stack App. Covered materials inlude JavaScript/jQuery, OOP fundamentals, React, Node.js, MySQL, HTML, CSS, Amazon Web Services (AWS), Git/GitHub, and others."
+        "description":"Year-long program for full-stack web development totaling minimum 800 work hours and including planning, coding and deployment of personal full-stack App. Curriculum covered hands-on experience using JavaScript/jQuery, OOP fundamentals, React, Node.js, MySQL, HTML, CSS, Amazon Web Services (AWS), Git/GitHub, and others."
       },
       {
         "school":"Project Management Institue",
@@ -115,19 +115,13 @@
       {
         "title":"Dappled",
         "category":"A full-stack CRUD blog-publishing App built in React, Node.js, and MySql and currently under development.",
-        "image":"onekeydata.png",
+        "image":"Dappled_square.jpg",
         "url":"http://dappled.twalt007.com"
       },
       {
         "title":"Sweet Corner",
         "category":"E-commerce site built on React-Redux, Node.js and MySql where users browse and select products for checkout using tokens to access and track cart.",
-        "image":"sweet-corner.png",
-        "url":"http://sweet-corner.twalt007.com/"
-      },
-      {
-        "title":"Sweet Corner - OOP",
-        "category":"E-Commerce App built using Jquery and OOP fundamentals, styled using Bootstrap",
-        "image":"sweet-corner.png",
+        "image":"sweet_corner.jpg",
         "url":"http://sweet-corner.twalt007.com/"
       }
     ]
