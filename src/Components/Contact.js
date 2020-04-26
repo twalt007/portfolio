@@ -20,8 +20,6 @@ class Contact extends Component {
 
             <div className="two columns header-col">
 
-               {/* <h1><span>Get In Touch.</span></h1> */}
-
             </div>
 
             <div className="ten columns">
@@ -57,32 +55,3 @@ class Contact extends Component {
 export default Contact;
 
 
-{/* <section id="contact">
-      
-      <div className="text-container column section-head centered">
-            <h1>Get In Touch</h1> 
-            <h4>Feel free to send me a message</h4>
-            <div className="ten columns">
-
-                  <p className="lead">
-                     <h4>Contact Info</h4>
-          			   <p className="address">
-          				   {name}<br />
-          				   {street}, {state}<br />
-          				   <span>{phone}</span> <br />
-                        <span>{email}</span>
-          			   </p>
-                  </p>
-
-            </div> 
-            <div className="widget widget_contact">
-                  <br />
-                  <br />
-					   <h4>Contact Info</h4>
-					   <p className="address">
-						   {name}<br />
-						   {street}, {state}<br />
-						   <span>{phone}</span> <br />
-                     <span>{email}</span>
-					   </p>
-				   </div>   */}
