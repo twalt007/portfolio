@@ -1,39 +1,38 @@
-# React JS Resume Web App Template      
-![ReactJS Resume Website Template](resume-screenshot.jpg?raw=true "ReactJS Resume Website Template")
-### <a href="https://react-resume-template.herokuapp.com/">LIVE DEMO</a> 
+# Tatumn Walter WebDev Portfolio
+
+### <a href="https://twalt007.com/">VISIT LIVE SITE</a> 
+
+![Portfolio Home](resume-screenshot.jpg?raw=true "ReactJS Resume Website")
 
 ## Description
-This is a ReactJS based personal resume website template. I have built this by following a Udemy course (credits below) and by beginning with the Ceevee template by Styleshout (credits also below), and breaking up their template into isolated React components. Data is fed directly from a JSON File. This means that in its final form, it can be customized and used by anybody simply by filling in their own personal info into the JSON file and the changes will be dynamically fed into the site. If you would like to use this template for your own personal resume website, read on to learn how to build your own copy.
+This is my personal portfolio site featuring an overview of who I am, my skills, experience, and major projects. Feel free to visit the site and learn more about my work. Don't hesitate to reach out - I'm always looking to explore new opportunities. 
 
-## Make it Your Own!
-### 1. Make sure you have what you need
-To build this website, you will need to have Node >=6 downloaded and installed on your machine. If you don't already have it, you can get it <a href="https://nodejs.org/en/download/">HERE</a>
-### 2. Build a Create-React-App
-Next, you will build the initial application using a handy tool called Create-React-App. This allows you to get up and running with a React app without the headache of setting up build-tool configurations. Go <a href="https://reactjs.org/docs/installation.html">HERE</a> to get started.
-When the app building is finished run `cd yourappname` and run `npm start` to test it out.
-Hit ctrl+c in the terminal when you want to stop the server that the above command starts.
-For this project we will also need to install JQuery and ReactGA, do this by running `npm install jquery --save` and `npm install react-ga --save` in your terminal while inside your project folder. YOU MUST RUN THESE COMMANDS.
-### 3. Download the template
-Once you have a React app up and running by following the steps in the above link, download my code by hitting the green "clone or download" button above and hit download zip. All you will have to do now is replace the "public" and "src" folders of your newly built app with mine that you just downloaded. If you run `npm start` now, you should see that your app renders the same as the one at the live demo link above.
-### 4. Replace images and fonts
-Next, you will want to replace the images, and fonts if you like, with your own. All you have to do is replace the images at public/images/header-background.jpg, public/images/testimonials-bg.jpg and public/favicon.ico with your own. <em>YOU MUST KEEP THE SAME NAMES ON THE IMAGES.</em>  
-### 5. Fill in your personal info
-To populate the website with all of your own data, open the public/resumeData.json file and simply replace the data in there with your own. Images for the porfolio section are to be put in the public/images/portfolio folder.
-### 6. Make any styling changes you would like
-Of course, all of the code is there and nothing is hidden from you so if you would like to make any other styling changes, feel free!
-### 7. Enjoy your new Resume Website
-When you're all done, run `npm start` again and you'll see your new personal resume website! Congratulations!
+## Technologies
+This site is built using a **ReactJS template** shared by Tim Baker on github. I modified it to feature my own professional content and adjusted the contact component to suit my current needs. Tim Baker's template was developed by breaking a **Ceevee template by Styleshout** into the ReactJS components with data fed from a **JSON File**. Credits and a link to the template's repo on Tim Baker's github account are provided below. 
 
+## Clone and Code
+### 1. System Requirements
+This website requires Node >= 6 to run.  If needed, you can download and install this at <a href="https://nodejs.org/en/download/">HERE</a>
+
+### 2. Fork and Install Dependencies
+1. Fork this repository by clicking the "Fork" button at top right.
+2. Clone the just-forked repository into the the directory containing your dev environment.
+    - `git clone https://github.com/twalt007/portfolio.git`
+3. Change directories into the newly cloned repo
+    - `portfolio`
+4. Install dependencies 
+    - `npm install`
+
+### 3. Run the Code!
+1. `npm start` will launch the site. 
+2. The project will start at **localhost:3000**, and should render a page with the intro and background depicted in the image above.
+
+### 5. Build For Deployment
+1. To deploy, run webpack in the client directory to build project. From the command line type:
+    - `npm build`
 
 ## Credits
-##### Udemy Course
-<a href="https://www.udemy.com/projects-in-reactjs-the-complete-react-learning-course/learn/v4/overview">Projects in ReactJS: The Complete React Learning Course by Eduonix</a>
+### Tim Baker Resume Template
+<a href="https://github.com/tbakerx/react-resume-template">React JS Resume Web App Template</a>
 
-#### HTML Design Template
-<a href="https://www.styleshout.com/free-templates/ceevee/">Ceevee Template by Styleshout</a>
-
-##### Header photo credit
-<a href="https://unsplash.com/@mischievous_penguins?utm_medium=referral&amp;utm_campaign=photographer-credit&amp;utm_content=creditBadge">Casey Horner</a>
-
-##### Testimonial photo credit
-<a href="https://unsplash.com/@samuelzeller?utm_medium=referral&amp;utm_campaign=photographer-credit&amp;utm_content=creditBadge">Samuel Zeller</a>
+## Happy Browsing!
