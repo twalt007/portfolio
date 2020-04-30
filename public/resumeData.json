@@ -115,13 +115,13 @@
       {
         "title":"Dappled",
         "category":"A full-stack CRUD blog-publishing App built in React, Node.js, and MySql and currently under development.",
-        "image":"Dappled_square.jpg",
+        "image":"Dappled_square.JPG",
         "url":"http://dappled.twalt007.com"
       },
       {
         "title":"Sweet Corner",
         "category":"E-commerce site built on React-Redux, Node.js and MySql where users browse and select products for checkout using tokens to access and track cart.",
-        "image":"sweet_corner.jpg",
+        "image":"sweet_corner.JPG",
         "url":"http://sweet-corner.twalt007.com/"
       }
     ]
