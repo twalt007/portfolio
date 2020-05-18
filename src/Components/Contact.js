@@ -5,12 +5,12 @@ class Contact extends Component {
 
     if(this.props.data){
       var name = this.props.data.name;
-      var street = this.props.data.address.street;
+      // var street = this.props.data.address.street;
       // var city = this.props.data.address.city;
-      var state = this.props.data.address.state;
+      // var state = this.props.data.address.state;
       var phone= this.props.data.phone;
       var email = this.props.data.email;
-      var message = this.props.data.contactmessage;
+      // var message = this.props.data.contactmessage;
     }
 
     return (
