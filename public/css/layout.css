@@ -431,11 +431,17 @@ ul#nav li.current a { color: #0090f0; }
 }
 
 /* Portfolio Content */
-#portfolio-wrapper .columns { margin-bottom: 36px; }
+/* #portfolio-wrapper .columns { margin-bottom: 36px; } */
+
+#portfolio-wrapper { margin-bottom: 36px; }
 .portfolio-item .item-wrap {
    background: #fff;
    overflow: hidden;
    position: relative;
+   width: 30vw;
+   min-width: 100px;
+   display: inline-block;
+
 
    -webkit-transition: all 0.3s ease-in-out;
 	-moz-transition: all 0.3s ease-in-out;
@@ -472,8 +478,8 @@ ul#nav li.current a { color: #0090f0; }
    color: #fff;
    height: 30px;
    width: 30px;
-   font-size: 18px;
-   line-height: 30px;
+   font-size: 4vw;
+   line-height: 4vw;
    text-align: center;
 
    opacity: 0;
