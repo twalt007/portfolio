@@ -193,7 +193,8 @@ ul#nav li.current a { color: #0090f0; }
    overflow: hidden;
 }
 
-#about a, #about a:visited  { color: #fff; }
+#about a {color: rgb(173, 171, 171)}
+#about a:visited  { color: rgb(192, 192, 192); }
 #about a:hover, #about a:focus { color: #0090f0; }
 
 #about h2 {
@@ -431,15 +432,15 @@ ul#nav li.current a { color: #0090f0; }
 }
 
 /* Portfolio Content */
-/* #portfolio-wrapper .columns { margin-bottom: 36px; } */
 
-#portfolio-wrapper { margin-bottom: 36px; }
+#portfolio-wrapper .columns { margin-bottom: 36px; }
 .portfolio-item .item-wrap {
    background: #fff;
    overflow: hidden;
    position: relative;
    width: 30vw;
-   min-width: 100px;
+   min-width: 300px;
+   max-width: 415px;
    display: inline-block;
 
 
@@ -448,6 +449,12 @@ ul#nav li.current a { color: #0090f0; }
 	-o-transition: all 0.3s ease-in-out;
 	-ms-transition: all 0.3s ease-in-out;
 	transition: all 0.3s ease-in-out;
+}
+@media only screen and (max-width: 900px) {
+   .portfolio-item .item-wrap{
+      width: 45vw;
+      min-width: 200px;
+   }
 }
 .portfolio-item .item-wrap a {
    display: block;
@@ -807,8 +814,9 @@ call-to-action .button {
 }
 #contact .section-head { margin-bottom: 42px; }
 
-#contact a, #contact a:visited  { color: #0090f0; }
-#contact a:hover, #contact a:focus { color: #fff; }
+#contact a {color: rgb(173, 171, 171)}
+#contact a:visited  { color: rgb(192, 192, 192); }
+#contact a:hover, #contact a:focus { color: #0090f0; }
 
 #contact h1 {
    font: 18px/24px 'opensans-bold', sans-serif;

@@ -40,8 +40,8 @@ class About extends Component {
 						   <span>{street}<br />
 						         {city}, {state} {zip}
                    </span><br />
-						   <span>{phone}</span><br />
-                     <span>{email}</span>
+						   <span><a href="tel:+17143906091"target="_blank" rel="noopener noreferrer">{phone}</a></span><br />
+                     <span><a href="mailto:tatumnwalter@gmail.com? subject=MESSAGE FROM TWALT007" target="_blank" rel="noopener noreferrer">{email}</a></span>
 					   </p>
                </div>
                <div className="columns download">
