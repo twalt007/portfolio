@@ -288,10 +288,22 @@ ul#nav li.current a { color: #0090f0; }
 }
 
 /*----------------------------------------------*/
-/*	Skill Bars
+/*	Skill Bars  --> Replaced with Skill Table Section
 /*----------------------------------------------*/
 
-.bars {
+.skill-table {
+   display: flex;
+}
+.skill-table .section-title{
+   display: inline-block;
+   height: 10vh;
+   margin-bottom: 3vh;
+}
+.skill-table .column {
+   width: 33%
+}
+
+/* .bars {
 	width: 95%;
 	float: left;
 	padding: 0;
@@ -329,7 +341,17 @@ ul#nav li.current a { color: #0090f0; }
   	height: 42px;
    line-height: 42px;
    border-radius: 3px 0 0 3px;
-}
+} */
+
+/*----------------------------------------------*/
+/*	Skill Bars
+/*----------------------------------------------*/
+
+
+
+
+
+
 /*
 .git {
   	-moz-animation: git 2s ease;

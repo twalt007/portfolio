@@ -70,6 +70,44 @@
         "years":"Spring 2015 - Sep 2016",
         "description": "Learned ARC proprietary technologies and explained technical use and business fit to prospective clients. Built strategic foundation of users for ARC proprietary cloud-based collaboration software to break into market. Grew client usage by 300%, highest quantity across 100+ global locations. Slashed costs by $15,000\/year by proactively spearheading update of invoice-process coding. Promoted to hiring, training, and managing 2 employees as part of initiative. Designed and executed client relationship strategy, while outperforming industry standards."
       }
+    ],
+    "technologies":[
+      {
+        "name":"HTML5",
+        "level":"90%"
+      },
+      {
+        "name":"CSS",
+        "level":"80%"
+      },
+      {
+        "name":"Javascript, JQuery, ES6",
+        "level":"70%"
+      },
+      {
+        "name":"ReactJs, Redux",
+        "level":"70%"
+      },
+      {
+        "name":"Node.js",
+        "level":"70%"
+      },
+      {
+        "name":"MySql",
+        "level":"70%"
+      },
+      {
+        "name":"Git, GitHub",
+        "level":"70%"
+      },
+      {
+        "name":"Wordpress",
+        "level":"40%"
+      },
+      {
+        "name":"Photoshop",
+        "level":"40%"
+      }
     ]
   },
   "portfolio":{
