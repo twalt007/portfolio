@@ -298,11 +298,24 @@ ul#nav li.current a { color: #0090f0; }
    display: inline-block;
    height: 10vh;
    margin-bottom: 3vh;
+   font-weight: 800;
 }
-.skill-table .column {
-   width: 33%
+.skill-table .skill-column {
+   width: 30%;
+   margin: 0 6px;
 }
 
+@media only screen and (max-width: 500px) {
+   .skill-table .skill-column {
+      width: 100%
+   }
+}
+@media only screen and (min-width: 875px) {
+   .skill-table .skill-column{
+      margin: 0 15px;
+
+   }
+}
 /* .bars {
 	width: 95%;
 	float: left;
