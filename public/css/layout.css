@@ -294,13 +294,81 @@ ul#nav li.current a { color: #0090f0; }
 .skill-table {
    display: flex;
 }
+.skill-table .skill-column {
+   width: 30%;
+   margin: 0 6px;
+   text-align: center;
+}
+.skill-table .icon-container{
+   display: block;
+   margin: auto;
+   width: 83px;
+   height: 79px;
+   margin-bottom: 15px
+}
+.skill-table .faIcon{
+   color: #0090f0;
+   width: 79px;
+   height: 79px
+}
+.skill-table .faIcon.tools{
+   width: 75px;
+   height: 75px;
+   padding-top: 10px
+}
 .skill-table .section-title{
    display: inline-block;
-   height: 10vh;
-   margin-bottom: 3vh;
+   height: 70px;
+   font-weight: 800;
 }
-.skill-table .column {
-   width: 33%
+@media only screen and (min-width: 956px) {
+   .skill-table .section-title{
+      height: 40px;
+   }
+}
+@media only screen and (min-width: 876px) {
+   .skill-table .skill-column{
+      margin: 0 15px;
+   }
+}
+@media only screen and (max-width: 875px) {
+   .skill-table .icon-container{
+      width: 73px;
+      height: 70px;
+   }
+   .skill-table .faIcon{
+      width: 70px;
+      height: 70px
+   }
+   .skill-table .faIcon.tools{
+      width: 65px;
+      height: 62px;
+   }
+}
+@media only screen and (max-width: 500px) {
+   .skill-table .skill-column {
+      width: 100%;
+      /* fix me so that just one column */
+   }
+   /* .skill-table .section-title{
+      margin-bottom: 15px;
+   } */
+   .skill-table .icon-container{
+      width: 65px;
+      height: 60px;
+      margin-bottom: 10px
+   }
+   .skill-table .faIcon{
+      width: 60px;
+      height: 60px
+   }
+   .skill-table .faIcon.tools{
+      width: 55px;
+      height: 53px;
+   }
+   @media only screen and (max-width: 335px){
+
+   }
 }
 
 /* .bars {
