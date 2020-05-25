@@ -70,6 +70,37 @@
         "years":"Spring 2015 - Sep 2016",
         "description": "Learned ARC proprietary technologies and explained technical use and business fit to prospective clients. Built strategic foundation of users for ARC proprietary cloud-based collaboration software to break into market. Grew client usage by 300%, highest quantity across 100+ global locations. Slashed costs by $15,000\/year by proactively spearheading update of invoice-process coding. Promoted to hiring, training, and managing 2 employees as part of initiative. Designed and executed client relationship strategy, while outperforming industry standards."
       }
+    ],
+    "skills":[
+      {
+        "icon": "faCode",
+        "iconSize": "",
+        "title": "Language | Framework",
+        "items": [
+          "lingo",
+          "lango",
+          "lungo"
+        ]
+      },
+      {
+        "icon": "faTools",
+        "iconSize": "shrink",
+        "title": "Tool | Principle",
+        "items": [
+          "lingo",
+          "lango",
+          "lungo"
+        ]
+      },{
+        "icon": "faUsers",
+        "iconSize": "",
+        "title": "Business | Team",
+        "items": [
+          "lingo",
+          "lango",
+          "lungo"
+        ]
+      }
     ]
   },
   "portfolio":{

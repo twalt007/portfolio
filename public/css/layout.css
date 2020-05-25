@@ -311,7 +311,7 @@ ul#nav li.current a { color: #0090f0; }
    width: 79px;
    height: 79px
 }
-.skill-table .faIcon.tools{
+.skill-table .faIcon.shrink{
    width: 75px;
    height: 75px;
    padding-top: 10px
@@ -320,6 +320,11 @@ ul#nav li.current a { color: #0090f0; }
    display: inline-block;
    height: 70px;
    font-weight: 800;
+}
+.skill-table .skill{
+   border: solid;
+   border-width: 0.5px 1px;
+   border-color: rgba(110, 120, 129, 0.342)
 }
 @media only screen and (min-width: 956px) {
    .skill-table .section-title{
@@ -340,7 +345,7 @@ ul#nav li.current a { color: #0090f0; }
       width: 70px;
       height: 70px
    }
-   .skill-table .faIcon.tools{
+   .skill-table .faIcon.shrink{
       width: 65px;
       height: 62px;
    }
@@ -362,12 +367,20 @@ ul#nav li.current a { color: #0090f0; }
       width: 60px;
       height: 60px
    }
-   .skill-table .faIcon.tools{
+   .skill-table .faIcon.shrink{
       width: 55px;
       height: 53px;
    }
-   @media only screen and (max-width: 335px){
-
+   @media only screen and (max-width: 425px){
+      .skill-table {
+         display: block;
+         text-align: center;
+      }
+      .skill-table .skill-column {
+         width: 60%;
+         margin: auto;
+         text-align: center;
+      }
    }
 }
 
