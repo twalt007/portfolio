@@ -1,4 +1,6 @@
 import React, { Component } from 'react';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import { faCode, faTools, faUsers } from '@fortawesome/free-solid-svg-icons'
 
 class Resume extends Component {
   render() {
@@ -69,7 +71,7 @@ class Resume extends Component {
         <div className="nine columns main-col">
           <div className="skill-table">
             <div className="skill-column">
-              <div className="image"></div>
+              <div className="icon-container" ><FontAwesomeIcon icon={faCode} className="faIcon"/></div>
               <div className="section-title"> Language | Framework </div>
               <div className="skills">
                 <div className="skill">Skill</div>
@@ -78,7 +80,7 @@ class Resume extends Component {
               </div>
             </div>
             <div className="skill-column">
-              <div className="image"></div>
+              <div className="icon-container" ><FontAwesomeIcon icon={faTools} className="faIcon tools"/></div>
               <div className="section-title"> Tool | Principle </div>
               <div className="skills">
                 <div className="skill">Skill</div>
@@ -87,8 +89,8 @@ class Resume extends Component {
               </div>
             </div>
             <div className="skill-column">
-              <div className="image"></div>
-              <div className="section-title"> Business | Other </div>
+              <div className="icon-container" ><FontAwesomeIcon icon={faUsers} className="faIcon"/></div>
+              <div className="section-title"> Business | Team </div>
               <div className="skills">
                 <div className="skill">Skill</div>
                 <div className="skill">Skill</div>
