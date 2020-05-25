@@ -24,10 +24,10 @@ class Resume extends Component {
             <p>{work.description}</p>
         </div>
       })
-      // var skills = this.props.data.technologies.map(function(skills){
+      //var skills = this.props.data.skills.map(function(skill){
       //   var className = 'bar-expand '+skills.name.toLowerCase();
       //   return <li key={skills.name}><span style={{width:skills.level}}className={className}></span><em>{skills.name}</em></li>
-      // })
+      //})
     }
 
     return (
@@ -72,29 +72,58 @@ class Resume extends Component {
           <div className="skill-table">
             <div className="skill-column">
               <div className="icon-container" ><FontAwesomeIcon icon={faCode} className="faIcon"/></div>
-              <div className="section-title"> Language | Framework </div>
+              {/* <div className="section-title"> Language | Framework </div> */}
               <div className="skills">
-                <div className="skill">Skill</div>
-                <div className="skill">Skill</div>
-                <div className="skill">Skill</div>
+                <div className="skill">React.js</div>
+                <div className="skill">Redux</div>
+                <div className="skill">Node JS</div>
+                <div className="skill">MySQL</div>
+                <div className="skill">JavaScript (ES5/ES6)</div>
+                <div className="skill">JQuery</div>
+                <div className="skill">JSX</div>
+                <div className="skill">HTML5</div>
+                <div className="skill">CSS3</div>
+                <div className="skill">Regex</div>
+                <div className="skill">Bootstrap</div>
+                <div className="skill">API: Axios | Ajax</div>
+                <div className="skill">Flexbox</div>
               </div>
             </div>
             <div className="skill-column">
-              <div className="icon-container" ><FontAwesomeIcon icon={faTools} className="faIcon tools"/></div>
-              <div className="section-title"> Tool | Principle </div>
+              <div className="icon-container" ><FontAwesomeIcon icon={faTools} className="faIcon shrink"/></div>
+              {/* <div className="section-title"> Tool | Principle </div> */}
               <div className="skills">
-                <div className="skill">Skill</div>
-                <div className="skill">Skill</div>
-                <div className="skill">Skill</div>
+                <div className="skill">AWS</div>
+                <div className="skill">OOP</div>
+                <div className="skill">Git/Github</div>
+                <div className="skill">Mobile-first</div>
+                <div className="skill">phpMyAdmin</div>
+                <div className="skill">Chrome Dev Tools</div>
+                <div className="skill">WordPress</div>
+                <div className="skill">Postman</div>
+                <div className="skill">npm</div>
+                <div className="skill">Figma</div>
+                <div className="skill">MeisterTask</div>
+                <div className="skill">DB Desiger</div>
+                <div className="skill">Gantt Charts</div>
               </div>
             </div>
             <div className="skill-column">
               <div className="icon-container" ><FontAwesomeIcon icon={faUsers} className="faIcon"/></div>
-              <div className="section-title"> Business | Team </div>
+              {/* <div className="section-title"> Business | Team </div> */}
               <div className="skills">
-                <div className="skill">Skill</div>
-                <div className="skill">Skill</div>
-                <div className="skill">Skill</div>
+                <div className="skill">Mandarin Chinese</div>
+                <div className="skill">Spanish</div>
+                <div className="skill">Planning</div>
+                <div className="skill">Project Management</div>
+                <div className="skill">Oral Presentations</div>
+                <div className="skill">Written Communication</div>
+                <div className="skill">Business Relationship Management</div>
+                <div className="skill">Training</div>
+                <div className="skill">Negotiations</div>
+                <div className="skill">Intl/Remote Teams</div>
+                <div className="skill">System Optimization</div>
+                <div className="skill">Quality Assurance</div>
               </div>
             </div>              
           </div>            
