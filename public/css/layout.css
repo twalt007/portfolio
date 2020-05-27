@@ -323,7 +323,7 @@ ul#nav li.current a { color: #0090f0; }
 }
 .skill-table .skill{
    border: solid;
-   border-width: 0.5px 1px;
+   border-width: 1px 2px;
    border-color: rgba(110, 120, 129, 0.342)
 }
 @media only screen and (min-width: 956px) {
@@ -549,7 +549,7 @@ ul#nav li.current a { color: #0090f0; }
    width: 30vw;
    min-width: 300px;
    max-width: 415px;
-   display: inline-block;
+   
 
 
    -webkit-transition: all 0.3s ease-in-out;
@@ -557,6 +557,14 @@ ul#nav li.current a { color: #0090f0; }
 	-o-transition: all 0.3s ease-in-out;
 	-ms-transition: all 0.3s ease-in-out;
 	transition: all 0.3s ease-in-out;
+}
+.portfolio-item{
+   display: flex;
+   text-align: center;
+}
+.portfolio-item .item-wrap{
+   display: inline-block;
+   margin: auto;
 }
 @media only screen and (max-width: 900px) {
    .portfolio-item .item-wrap{

@@ -118,7 +118,7 @@ class Resume extends Component {
                 <div className="skill">Project Management</div>
                 <div className="skill">Oral Presentations</div>
                 <div className="skill">Written Communication</div>
-                <div className="skill">Business Relationship Management</div>
+                <div className="skill">Customer Relationship Management</div>
                 <div className="skill">Training</div>
                 <div className="skill">Negotiations</div>
                 <div className="skill">Intl/Remote Teams</div>
