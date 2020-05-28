@@ -80,7 +80,6 @@ class Resume extends Component {
                 <div className="skill">MySQL</div>
                 <div className="skill">JavaScript (ES5/ES6)</div>
                 <div className="skill">JQuery</div>
-                <div className="skill">JSX</div>
                 <div className="skill">HTML5</div>
                 <div className="skill">CSS3</div>
                 <div className="skill">Regex</div>
@@ -97,11 +96,8 @@ class Resume extends Component {
                 <div className="skill">OOP</div>
                 <div className="skill">Git/Github</div>
                 <div className="skill">Mobile-first</div>
-                <div className="skill">phpMyAdmin</div>
-                <div className="skill">Chrome Dev Tools</div>
                 <div className="skill">WordPress</div>
                 <div className="skill">Postman</div>
-                <div className="skill">npm</div>
                 <div className="skill">Figma</div>
                 <div className="skill">MeisterTask</div>
                 <div className="skill">DB Desiger</div>
@@ -122,7 +118,6 @@ class Resume extends Component {
                 <div className="skill">Training</div>
                 <div className="skill">Negotiations</div>
                 <div className="skill">Intl/Remote Teams</div>
-                <div className="skill">System Optimization</div>
                 <div className="skill">Quality Assurance</div>
               </div>
             </div>              
