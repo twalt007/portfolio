@@ -16,7 +16,7 @@ This website requires Node >= 6 to run.  If needed, you can download and install
 
 ### 2. Fork and Install Dependencies
 1. Fork this repository by clicking the "Fork" button at top right.
-2. Clone the just-forked repository into the the directory containing your dev environment.
+2. Clone the just-forked repository into the directory containing your dev environment.
     - `git clone https://github.com/twalt007/portfolio.git`
 3. Change directories into the newly cloned repo
     - `portfolio`
