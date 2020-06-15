@@ -56,7 +56,12 @@ header .banner {
    text-align: center;
 }
 
-header .banner-text { width: 100%; }
+header .banner-text { 
+   width: 100%; 
+   padding: 8% 0;
+   background-color: rgba(58, 56, 56, 0.356);
+   border-radius: 5px;
+}
 header .banner-text h1 {
    font: 90px/1.1em 'opensans-bold', sans-serif;
    color: #fff;
@@ -255,6 +260,7 @@ ul#nav li.current a { color: #0090f0; }
    font: 18px/24px 'opensans-bold', sans-serif;
    text-transform: uppercase;
    letter-spacing: 1px;
+   line-height: 40px;
 }
 #resume h1 span {
    border-bottom: 3px solid #0090f0;
@@ -285,6 +291,13 @@ ul#nav li.current a { color: #0090f0; }
 #resume .date {
    font: 15px/24px 'opensans-regular', sans-serif;
    margin-top: 6px;
+}
+
+@media only screen and (max-width: 425px){
+   #resume h1 span {
+      line-height: 35px;
+      padding-bottom: 3px;
+   }
 }
 
 /*----------------------------------------------*/
