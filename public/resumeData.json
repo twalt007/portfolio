@@ -13,8 +13,9 @@
     "aboutme":{ 
       "pp1": "I've always had a developer's mind – analyzing situations, modularizing processes, figuring out what makes people and systems tick, and then using these insights to build something better.", 
       "pp2": "Equally athlete and nerd, fluent in Spanish and Chinese, experienced with both the coding and business sides of App development - I use my multifaceted background to approach problems from unique angles and innovate projects.", 
-      "pp3": "Currently I'm loving diving into the code, and hope one day to work on a project in the humanitarian, education or economic development field where I can use my full skillset to make a positive impact on the lives of others.",
-      "pp4": "Let me know if you have something you think I'd be great on - I always like hearing about new and exciting projects!"
+      "pp3": "As a developer I love learning ways to write cleaner, more efficient code and can easily spend a whole Saturday afternoon diving into the docs or debating which technology best suits a project’s needs. ",
+      "pp4": "One day I hope to work on a project in the humanitarian, education or economic development field where I can use my full skillset to make a positive impact on the lives of others.",
+      "pp5": "Let me know if you have something you think I'd be great on - I always like hearing about new and exciting projects!"
     },
     "website": "http://www.twalt007.com",
     "resumedownload":"https://drive.google.com/file/d/1-STtcoZBISb0B3wa1stUIfRghmOFvgoc/view?usp=sharing",
@@ -60,23 +61,28 @@
     "work":[
       {
         "company":"85C Bakery Cafe Headquarters",
-        "title":"App Project Coordinator",
-        "years":"March 2018 - Present",
+        "title":"Multiplatform App Developer and eCommerce Manager",
+        "years":"Spring 2018 - Present",
         "description": [
-          "b1 content",
-          "b2 contnet",
-          "b3 content"
+          "Project managed business-side development of mobile App and $600,000 reward plan, coordinating across 8 departments and collaborating with international dev team; successfully reached 200,000 users in 1.5 years",
+          "Central role in overcoming COVID challenges, launching Online Ordering to bring in $200,000/month",
+          "Quadrupled 3rd party digital delivery sales by revamping features and deploying in waves across 60+ locations",
+          "Maintained WordPress website using knowledge of HTML/CSS; advised on ADA compliance to avoid lawsuit",
+          "Used knowledge of RESTful APIs and server responses to troubleshoot customer tech problems",
+          "QA testing on beta tech, collaborating with dev team to optimize UI and debug technical issues",
+          "Created wireframes and functionality specs for automated form to reduce customer service overhead by 70%",
+          "Researched, reviewed and composed technical documents, terms and conditions, and privacy policies"
         ]
       },
       {
         "company":"ARC Document Solutions",
-        "title":"Business Develoment Associate",
-        "years":"Spring 2015 - Sep 2016",
+        "title":"Business Develoment Associate | Cloud Platforms and Tech Solutions",
+        "years":"Spring 2015 - Fall 2016",
         "description": [
-          "b1 content",
-          "b2 contnet",
-          "b3 content"
-        ]
+          "Grew strategic user base for ARC cloud software by 300% to be highest across 100+ global locations and acquiring needed market share to break into industry",
+          "Slashed branch costs $15,000/year by spearheading update to invoicing code and problem solving bottleneck",
+          "Supported team by compiling self-developed best-practice resource guide; promoted to training new hires",
+          "Took initiative to learn full ARC technology suite and use cases with result that 40% of cold outreach generated well-developed leads"        ]
       }
     ]
   },
