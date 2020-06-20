@@ -62,13 +62,21 @@
         "company":"85C Bakery Cafe Headquarters",
         "title":"App Project Coordinator",
         "years":"March 2018 - Present",
-        "description":"Coordinate timeline and work packages for 5 different domestic\/international departments and international teams. Collaborate with dev team on QA and reconfiguring UI to better suit US market. Strategize App marketing, compose all on and off-App written content. Compute Customer Rewards Program, product forecasts, and impact to company finances. Draft App Terms and Conditions and Privacy Policy. Create training materials for both employees and patrons. Negotiate contracts and grow collaboration on 3rd party platforms."
+        "description": [
+          "b1 content",
+          "b2 contnet",
+          "b3 content"
+        ]
       },
       {
         "company":"ARC Document Solutions",
         "title":"Business Develoment Associate",
         "years":"Spring 2015 - Sep 2016",
-        "description": "Learned ARC proprietary technologies and explained technical use and business fit to prospective clients. Built strategic foundation of users for ARC proprietary cloud-based collaboration software to break into market. Grew client usage by 300%, highest quantity across 100+ global locations. Slashed costs by $15,000\/year by proactively spearheading update of invoice-process coding. Promoted to hiring, training, and managing 2 employees as part of initiative. Designed and executed client relationship strategy, while outperforming industry standards."
+        "description": [
+          "b1 content",
+          "b2 contnet",
+          "b3 content"
+        ]
       }
     ]
   },
