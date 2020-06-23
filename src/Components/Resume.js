@@ -11,7 +11,7 @@ class Resume extends Component {
         if(education.description){
           return <div key={education.school}><h3>{education.school}</h3>
           <p className="info">{education.degree}</p>
-          <p>{education.description}</p></div>
+          <p className="standard-color">{education.description}</p></div>
         } 
         else {
             return <div key={education.school}><h3>{education.school}</h3>
@@ -24,7 +24,7 @@ class Resume extends Component {
           return <li classname="resume-bullet">{item}</li>
         });
         return <div key={work.company}><h3>{work.company}</h3>
-            <p>{work.title}<span>&bull;</span> <em className="date">{work.years}</em></p>
+            <p className="info">{work.title}<span>&bull;</span> <em className="date">{work.years}</em></p>
             <ul>
               {descriptionList}
             </ul>
